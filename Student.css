@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Cinzel&family=DM+Sans:opsz,wght@9..40,100&family=Merriweather:ital,wght@1,300&family=Oswald:wght@300;500&family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&family=Raleway:wght@300&family=Staatliches&family=Tilt+Prism&family=Ysabeau+SC:wght@100;300&display=swap');
+
+.intro {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-family: 'Castoro Titling', cursive;
+    font-family: 'Cinzel', serif;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Raleway', sans-serif;
+    padding-top: 10px;
+    text-shadow: 2px 2px lightblue;
+    color: lightgreen;
+    border: 2px solid black;
+    width: 700px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    position: relative;
+    left: 400px;
+    background-color: black;
+}
+
+.adbtn {
+    font-size: 20px;
+    color: rgb(7, 7, 7);
+    background-color: rgb(16, 247, 112);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline-color: lightgreen;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-transform: uppercase;
+}
+
+.plus {
+    font-size: 20px
+}
